@@ -1,0 +1,27 @@
+ 
+ 
+
+
+
+li{
+    list-style-type: none;
+}
+
+#submitbtn{
+    padding: 12px;
+
+    background-color: rgb(13, 213, 13);
+    color: white;
+}
+
+#score{
+    flex-direction: end;
+}
+
+#correctanswer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    font-size: 30px;
+}
